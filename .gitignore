@@ -1,0 +1,7 @@
+.vscode/
+Assembly*
+Build/
+Library/
+*.sln
+Temp/
+Logs/
